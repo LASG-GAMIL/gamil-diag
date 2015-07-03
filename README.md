@@ -1,2 +1,10 @@
-# gamil-diag
-GAMIL的诊断包将收集大量用于诊断分析大气环流模式的处理脚本和程序，并能够自动化运行。
+Introduction
+============
+
+This is the diagnostics package for atmospheric general circulation model [GAMIL](https://github.com/LASG-GAMIL/GAMIL).
+
+Contributors
+============
+
+- Lijuan Li
+- Li Dong
